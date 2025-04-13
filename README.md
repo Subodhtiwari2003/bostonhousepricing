@@ -33,4 +33,10 @@ To run this project, you’ll need the following tools:
 - GitHub Account: For managing version control and hosting the repository.
 - VS Code IDE: For coding and debugging.
 - Heroku Account: For deploying the web application.
+- Python Libraries:- Flask
+- Pandas
+- NumPy
+- Scikit-Learn
+- Matplotlib
+- Gunicorn (for Heroku deployment)
 
