@@ -23,5 +23,9 @@ This project is built to predict house prices in Boston using machine learning t
 
 
 ## Key Features
+- Implements linear regression for prediction.
+- Preprocesses data using scaling and transformation.
+- Tracks model training using pickle files.
+- Offers a simple yet elegant Flask-based web app for predictions.
 
 
