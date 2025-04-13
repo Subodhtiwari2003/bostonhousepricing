@@ -22,6 +22,6 @@ Welcome to the Boston House Pricing Prediction project! This repository demonstr
 This project is built to predict house prices in Boston using machine learning techniques. By analyzing the influential features of housing data, the model can give accurate price predictions. The project also includes a web application for user-friendly interaction, deployed on Heroku.
 
 
-
+## Key Features
 
 
