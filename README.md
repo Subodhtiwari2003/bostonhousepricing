@@ -8,4 +8,16 @@
 ## Boston House Pricing Prediction
 Welcome to the Boston House Pricing Prediction project! This repository demonstrates how machine learning can predict housing prices based on key features like crime rate, number of rooms, and location-related data. It includes the entire workflow—from data preprocessing to deploying a web application.
 
+## 📋 Table of Contents
+- Overview
+- Software and Tools Required
+- Project Workflow
+- Installation and Setup
+- Project Structure
+- How to Use the Web Application
+- Results
+- License
+
+
+
 
