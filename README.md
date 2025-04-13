@@ -28,4 +28,4 @@ This project is built to predict house prices in Boston using machine learning t
 - Tracks model training using pickle files.
 - Offers a simple yet elegant Flask-based web app for predictions.
 
-
+## 🛠 Software and Tools Required
