@@ -29,3 +29,8 @@ This project is built to predict house prices in Boston using machine learning t
 - Offers a simple yet elegant Flask-based web app for predictions.
 
 ## 🛠 Software and Tools Required
+To run this project, you’ll need the following tools:
+- GitHub Account: For managing version control and hosting the repository.
+- VS Code IDE: For coding and debugging.
+- Heroku Account: For deploying the web application.
+
