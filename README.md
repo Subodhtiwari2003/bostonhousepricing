@@ -49,3 +49,7 @@ To run this project, you’ll need the following tools:
 
 - Web App Development:- Build a Flask application (app.py) for making predictions interactively.
 - Use the saved model and scaler for predictions.
+
+- Deployment:- Set up the project with requirements.txt and procfile.
+- Deploy on Heroku for public access.
+
