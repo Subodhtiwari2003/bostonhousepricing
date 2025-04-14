@@ -46,3 +46,6 @@ To run this project, you’ll need the following tools:
 
 - Model Building:- Train a linear regression model and save it as regmodel.pkl.
 - Scale the data using StandardScaler and save it as scaling.pkl.
+
+- Web App Development:- Build a Flask application (app.py) for making predictions interactively.
+- Use the saved model and scaler for predictions.
