@@ -65,6 +65,14 @@ Set Up the Environment
 
 - Set up Flask for local development:flask run
 
+Run the Web App Locally
+To test the app locally, execute:
+python app.py
+
+
+Visit http://127.0.0.1:5000 in your browser to interact with the app.
+
+
 
 
 
