@@ -73,6 +73,28 @@ python app.py
 Visit http://127.0.0.1:5000 in your browser to interact with the app.
 
 
+## 📂 Project Structure
+Here’s how the repository is organized:
+bostonhousepricing/
+│
+├── src/                     # Contains source code
+│   ├── preprocessing.py     # Code for data cleaning and transformation
+│   ├── train_model.py       # Model training script
+│
+├── templates/               # HTML files for the Flask web app
+│   ├── index.html           # Main web page for user interaction
+│
+├── Linear Regression ML Implementation.ipynb # Jupyter notebook for EDA & training
+├── app.py                   # Flask app for prediction
+├── regmodel.pkl             # Saved linear regression model
+├── scaling.pkl              # Saved scaler object
+├── requirements.txt         # Project dependencies
+├── setup.py                 # Deployment script
+├── procfile                 # Heroku-specific deployment configuration
+├── LICENSE                  # Open-source license
+└── README.md                # Documentation (this file!)
+
+
 
 
 
