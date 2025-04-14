@@ -41,5 +41,6 @@ To run this project, you’ll need the following tools:
 - Gunicorn (for Heroku deployment)
 
 ## 🚀 Project Workflow
-
+- Data Preparation:- Load the dataset (Linear Regression ML Implementation.ipynb).
+- Handle missing values and preprocess features. 
 
