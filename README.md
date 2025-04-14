@@ -53,3 +53,20 @@ To run this project, you’ll need the following tools:
 - Deployment:- Set up the project with requirements.txt and procfile.
 - Deploy on Heroku for public access.
 
+## ⚙️ Installation and Setup
+Follow these steps to set up the project:
+Clone the Repository
+git clone https://github.com/Subodhtiwari2003/bostonhousepricing.git
+cd bostonhousepricing
+
+
+Set Up the Environment
+- Install the required dependencies:pip install -r requirements.txt
+
+- Set up Flask for local development:flask run
+
+
+
+
+
+
