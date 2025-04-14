@@ -40,3 +40,6 @@ To run this project, you’ll need the following tools:
 - Matplotlib
 - Gunicorn (for Heroku deployment)
 
+## 🚀 Project Workflow
+
+
