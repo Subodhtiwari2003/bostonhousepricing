@@ -44,3 +44,5 @@ To run this project, you’ll need the following tools:
 - Data Preparation:- Load the dataset (Linear Regression ML Implementation.ipynb).
 - Handle missing values and preprocess features. 
 
+- Model Building:- Train a linear regression model and save it as regmodel.pkl.
+- Scale the data using StandardScaler and save it as scaling.pkl.
