@@ -94,7 +94,8 @@ bostonhousepricing/
 ├── LICENSE                  # Open-source license
 └── README.md                # Documentation (this file!)
 
-
+## 🖥️ How to Use the Web Application
+
 
 
 
