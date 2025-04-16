@@ -114,6 +114,9 @@ The linear regression model achieves competitive performance:
 - Deploy on Cloud Platforms: Use AWS or Azure for better scalability.
 
 ## 📜 License
+This project is licensed under the Apache 2.0 License.
+
+
 
 
 
