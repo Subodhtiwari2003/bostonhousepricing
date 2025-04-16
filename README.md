@@ -95,6 +95,14 @@ bostonhousepricing/
 └── README.md                # Documentation (this file!)
 
 ## 🖥️ How to Use the Web Application
+- Input Features: Open the web app and fill in the required housing data:- Number of Rooms
+- Crime Rate
+- Accessibility to Highways
+- Other relevant features.
+
+- Submit Your Data: Click the "Predict Price" button.
+- View the Results: The app will display the predicted house price.
+
 
 
 
