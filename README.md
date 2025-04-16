@@ -108,10 +108,12 @@ The linear regression model achieves competitive performance:
 - R² Score: High accuracy (evaluated on test data).
 - Insights:- Features like the number of rooms (RM) and the percentage of lower-status population (LSTAT) significantly influence house prices.
 
-##📈 Future Scope
+## 📈 Future Scope
 - Enhance the Model: Explore advanced algorithms like Random Forests or Gradient Boosting for better accuracy.
 - Add More Features: Incorporate additional datasets to capture other factors like neighborhood amenities.
 - Deploy on Cloud Platforms: Use AWS or Azure for better scalability.
+
+## 📜 License
 
 
 
