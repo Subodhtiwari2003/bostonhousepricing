@@ -103,6 +103,13 @@ bostonhousepricing/
 - Submit Your Data: Click the "Predict Price" button.
 - View the Results: The app will display the predicted house price.
 
+## 📊 Results
+
+
+
+
+
+
 
 
 
