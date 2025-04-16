@@ -104,6 +104,10 @@ bostonhousepricing/
 - View the Results: The app will display the predicted house price.
 
 ## 📊 Results
+The linear regression model achieves competitive performance:
+- R² Score: High accuracy (evaluated on test data).
+- Insights:- Features like the number of rooms (RM) and the percentage of lower-status population (LSTAT) significantly influence house prices.
+
 
 
 
